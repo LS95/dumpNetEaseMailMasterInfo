@@ -1,0 +1,2 @@
+# dumpNetEaseMailMasterInfo
+本地恢复Windows下NetEaseMailMaster网*邮箱大师客户端邮件相关信息
